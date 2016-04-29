@@ -1,10 +1,28 @@
-# Abstract #
+# Getting Started #
+
+This solution package contains materials to help both technical and business audiences understand our predictive maintenance solution for the aerospace industry built on the [Cortana Intelligence Suite](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/Overview.aspx).
+
+# Business Audiences
+
+In this repository you will find a folder labelled **Solution Overview for Business Audiences**. This folder contains:
+- Infographic: covers the benefits of using advanced analytics for predictive maintenance in the aersospace industry
+- Solution At-a-glance: an introduction to a Cortana Intelligence Suite solution for predictive maintenance
+
+For more information on how to tailor Cortana Intelligence to your needs [connect with one of our partners](http://aka.ms/CISFindPartner).
+
+# Technical Audiences
+
+See the deployment guide below for a full set of instructions on how to put together and deploy a predictive maintenance solution using the Cortana Intelligence Suite.
+
+The **Developer Journey Map** walks through the different componenets created as part of th eend-to-end solution. For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
+
+# Deployment Guide 
 
 There is a lot of documentation around the Cortana Intelligence Suite Solution Template for 
 predictive maintenance for aerospace that predicts the remaining useful life of an aircraft 
 engine.
      
-There is an overview [blog post](https://blogs.technet.microsoft.com/machinelearning/2016/02/23/predictive-maintenance-for-aerospace-a-cortana-analytics-solution-template/) and a [technical guide](https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance) that provide a higher level overview of the solution template . 
+There is an overview [blog post](https://blogs.technet.microsoft.com/machinelearning/2016/02/23/predictive-maintenance-for-aerospace-a-cortana-analytics-solution-template/) and a [technical guide](https://azure.microsoft.com/en-us/documentation/articles/cortana-analytics-technical-guide-predictive-maintenance) that provide a higher level overview of the [solution template](https://gallery.cortanaintelligence.com/SolutionTemplate/Predictive-Maintenance-for-Aerospace-1) . 
 
 This information is incredibly useful to understand the concepts behind and technology that 
 went into creating it but does not provide the deep systems understanding that implementers 
