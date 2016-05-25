@@ -1,6 +1,6 @@
-The deployment guide below provides a full set of instructions on how to put together and deploy a predictive maintenance solution using the Cortana Intelligence Suite.
+The deployment guide below provides a full set of instructions on how to put together and deploy a predictive maintenance solution using the Cortana Intelligence Suite.The **Developer Journey Map** walks through the different components created as part of the end-to-end solution. 
 
-The **Developer Journey Map** walks through the different components created as part of the end-to-end solution. For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
+**For technical problems or questions about deploying this solution, please post in the issues tab of the repository.**
 
 # Deployment Guide 
 
