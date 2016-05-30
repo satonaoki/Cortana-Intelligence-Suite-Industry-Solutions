@@ -1,18 +1,26 @@
-# Getting Started #
+# 作業の開始 #
 
-This solution package contains materials to help both technical and business audiences understand our predictive maintenance solution for the aerospace industry built on the [Cortana Intelligence Suite](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/Overview.aspx).
+このソリューション パッケージには、技術ユーザー、ビジネス ユーザーの両方が、[Cortana Intelligence Suite](https://www.microsoft.com/ja-jp/server-cloud/products-Cortana-Analytics-Suite.aspx) 上に構築されている航空宇宙業界向けの我々の予知保全 (predecitive maintenance) ソリューションを理解するのに役立つ資料が含まれています。
 
-# Business Audiences
+#  ビジネス ユーザー
 
-In this repository you will find a folder labelled **Solution Overview for Business Audiences**. This folder contains:
-- Infographic: covers the benefits of using advanced analytics for predictive maintenance in the aerospace industry
-- Solution At-a-glance: an introduction to a Cortana Intelligence Suite solution for predictive maintenance
+このリポジトリには、**Solution Overview for Business Audiences** (ビジネス ユーザー向けのソリューション概要) というフォルダーがあります。このふぉるーだには、次のものが含まれています。
 
-For more information on how to tailor Cortana Intelligence to your needs [connect with one of our partners](http://aka.ms/CISFindPartner).
+- インフォグラフィック: 航空宇宙業界における予知保全のための高度な分析を使う利点を紹介しています
+- ソリューションの全体像: Cortana Intelligence Suite の予知保全のためのソリューションの紹介
 
-# Technical Audiences
+Cortana Intelligence を皆さんのニーズに合わせる方法のさらなる情報については、[我々のパートナーに連絡してください](http://aka.ms/CISFindPartner)。
 
-See the **Technical Deployment Guide** folder for a full set of instructions on how to put together and deploy a predictive maintenance solution using the Cortana Intelligence Suite. The **Developer Journey Map** included there walks through the different components created as part of the end-to-end solution. For technical problems or questions about deploying this solution, please post in the issues tab of the repository.
+# 技術ユーザー
+
+Cortana Intelligence Suite を使って予知保全ソリューションを組み立ててデプロイする方法の一連の完全な手順については、**Technical Deployment Guide** (技術デプロイ ガイド) フォルダーをご覧ください。ここにある **Developer Journey Map** (開発者の旅行地図) では、エンドツーエンド
+
+The **Developer Journey Map** included there 
+walks through 
+the different components 
+created as part of the end-to-end solution. 
+For technical problems or questions about deploying this solution, 
+please post in the issues tab of the repository.
 
 # Related Resources
 
